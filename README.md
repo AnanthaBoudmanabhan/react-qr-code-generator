@@ -1,14 +1,14 @@
-#QR Code Generator
+# QR Code Generator
 
 Simple app to generate and download a QR code that can be used to share a link
 
-##Tech Stack
+## Tech Stack
 
 - React
 - Tailwind CSS
 - [qrcodejs](https://github.com/davidshimjs/qrcodejs)
 
-##Instructions for running the App locally
+## Instructions for running the App locally
 
 - npm install
 - npm start
