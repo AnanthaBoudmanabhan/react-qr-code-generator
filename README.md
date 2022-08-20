@@ -1,5 +1,7 @@
 # QR Code Generator
 
+[Live](https://qr-code-generator-reactified.netlify.app/)
+
 Simple app to generate and download a QR code that can be used to share a link
 
 ## Tech Stack
